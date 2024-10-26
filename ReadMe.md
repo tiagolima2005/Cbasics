@@ -1,0 +1,1 @@
+I asked chatgpt to tell me the essential C stuff that i need to know and this repository has the objective of doing exercises of the essential C stuff so i can further improve my learning
