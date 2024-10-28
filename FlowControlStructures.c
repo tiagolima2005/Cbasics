@@ -49,4 +49,6 @@ int main()
         printf("Invalid choice. Please choose a number between 1 and 5.\n");
         break;
     }
+
+    return 0;
 }
